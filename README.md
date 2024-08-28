@@ -1,1 +1,1 @@
-# gemini-batch
+# Example to run Vertex Batch API with Gemini Pro
